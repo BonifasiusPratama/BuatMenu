@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuatMenu</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="bayar">bayar</string>
+    <string name="beli">beli</string>
+    <string name="app_user">Pengguna</string>
+</resources>
